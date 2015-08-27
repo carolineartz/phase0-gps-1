@@ -7,7 +7,7 @@ Fethching data from a repository on github and merging it with your master branc
 **What concepts were clarified during the GPS?**<br>
 The process of how pull request was definetly clarified for me<br>
 **What Questions did you ask your pair and the guide?**<br>
-A lot of questions lol. More specifically I asked about pull request, fetching data from a github repositoy, and tags in markdown.
+A lot of questions lol. More specifically I asked about pull request, fetching data from a github repositoy, and tags in markdown.<br>
 **What still confuses you about git?**<br>
 I believe that I have a pretty good grasp of git currently. Wouldn't be surprised if that were to change when we start learning new material. Nevertheless I am excited for the challenge. Also, I dont know why sublime won't open in my terminal. I must of set it as my default text edittor incorrectly. Will seach out for answers<br>
 **How was your first expirence of pairing in a GPS?**<br>
