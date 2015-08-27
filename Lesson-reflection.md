@@ -5,7 +5,7 @@
 **What Git concepts were you struggling with prior to the GPS session?**<br>
 Fethching data from a repository on github and merging it with your master branch locally. Also, I wasn't entirely sure about the process of how pull requests should work, after the GPS I know fully understand the conecpt.<br>
 **What concepts were clarified during the GPS?**<br>
-The process of how pull request was definetly clarified for me
+The process of how pull request was definetly clarified for me<br>
 **What Questions did you ask your pair and the guide?**<br>
 A lot of questions lol. More specifically I asked about pull request, fetching data from a github repositoy, and tags in markdown.
 **What still confuses you about git?**<br>
